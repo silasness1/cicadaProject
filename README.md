@@ -1,0 +1,2 @@
+# cicadaProject
+I turned a simple class project, to design an experiment, into my own hands and looked for patterns in Cicada activity by recording ambient sounds outside my house and measuring the intensity of key frequencies at which cicadas make their calls. I recorded .WAV files 3 minutes every hour for a month and used a sensor to get the current temperature, humidity, and particulate matter concentration (air quality). Here are the scripts to regularly record and turn audio files into summary statistics. 
